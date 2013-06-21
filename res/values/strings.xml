@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FreqDet</string>
+    <string name="measure">Start Measuring</string>
+    <string name="measuring">Measuring...</string>
+</resources>
